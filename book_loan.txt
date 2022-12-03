@@ -1,0 +1,2 @@
+ISBN,cust_id,return_date
+9781472237354,2,2022-12-08
